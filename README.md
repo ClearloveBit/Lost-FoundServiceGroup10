@@ -1,2 +1,6 @@
-# Lost-FoundServiceGroup10
-软件需求工程与UML建模
+# Lost-FoundService Group10
+
+2020软件需求工程与UML建模  第十组
+
+失物招领系统
+将校园里遗落的失物拍照上传后交在若干个设置的失物点，失主可以联系工作人员后认领。 
